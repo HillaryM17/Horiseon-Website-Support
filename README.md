@@ -5,10 +5,10 @@ In order to do this I created alternative text for all images and adapted the HT
 
 ## Usage 
 
-[title](https://hillarym17.github.io/Horiseon-Website-Support/)
+[Horiseon-Website-Support](https://hillarym17.github.io/Horiseon-Website-Support/)
 
 Open webpage using link above.  
-Website should look as in screenshot, found in the following file path.
+Website should look as in screenshot below. 
 
 ![alt text](/assets/images/website-screenshot.png)
 
