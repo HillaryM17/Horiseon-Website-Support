@@ -1,16 +1,19 @@
 # Horiseon-Website-Support
 
-## Installation
-
-
+This webpage was built for a Social Media Marketing company called Horiseon. I was asked to make the website more accessible to people accessing the webpage through assistive technologies. 
+In order to do this I created alternative text for all images and adapted the HTML structuring so that the webpage code was more structured for accessible technologies to access. 
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+[title](https://hillarym17.github.io/Horiseon-Website-Support/)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Open webpage using link above.  
+Website should look as in screenshot, found in the following file path.
 
-```md
 ![alt text](/assets/images/website-screenshot.png)
-```
+
+Click on the titles at the top of the screen to the left to navigate to the desired section. 
+
+
+
 
